@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/09ae8210-01da-4842-bbb0-076970f657fb
+
 **Name**    : BHUPATHI VARSHITHA<br>
 **Company** : CODTECH IT SOLUTIONS<br>
 **ID**      : CT08DS3630<br>
@@ -11,6 +15,8 @@
 ![img1](https://github.com/user-attachments/assets/a03af048-de2f-4a62-8f27-9519d2d9446b)
 
 ![img2](https://github.com/user-attachments/assets/b79d5a4f-2d5e-456a-808b-9ebaa3a34ea5)
+
+https://github.com/user-attachments/assets/80ac52e9-a277-4ff6-ba02-13d1b684b926
 
 **Objective**: The Arduino LED blinking project provides a hands-on introduction to microcontrollers, hardware interfaces, and programming ideas.
 
