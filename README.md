@@ -15,9 +15,12 @@
 **Objective**: The Arduino LED blinking project provides a hands-on introduction to microcontrollers, hardware interfaces, and programming ideas.
 
 
-**Key Activites**<br>
+**Key Activites**<br> 
 
-
+1.LED Connections: Connect the LED to the breadboard. <br>
+2.Resistor Connection: Insert one end of the resistor into the same row of the breadboard as the LED's Anode. <br>
+3.Ground (GND) Connection: Connect a jumper wire from the same row as the LED's cathode to any Arduino board GND (Ground) pin. <br>
+4.Upload code: Upload the code from system to the Arduino board using USB cable. <br>
 
 **Technologies Used**<br>
 
