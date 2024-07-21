@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/09ae8210-01da-4842-bbb0-076970f657fb
-
 **Name**    : BHUPATHI VARSHITHA<br>
 **Company** : CODTECH IT SOLUTIONS<br>
 **ID**      : CT08DS3630<br>
