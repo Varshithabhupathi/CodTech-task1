@@ -12,7 +12,7 @@
 
 ![img2](https://github.com/user-attachments/assets/b79d5a4f-2d5e-456a-808b-9ebaa3a34ea5)
 
-**Objective**:
+**Objective**: The Arduino LED blinking project provides a hands-on introduction to microcontrollers, hardware interfaces, and programming ideas.
 
 
 **Key Activites**<br>
