@@ -24,6 +24,6 @@
 
 **Technologies Used**<br>
 
-
+The microcontrollers can be programmed using the C and C++ programming languages (Embedded C), using a standard API which is also known as the Arduino Programming Language, inspired by the Processing language and used with a modified version of the Processing IDE. We used arduino IDE software to run and upload.  
 
 **Key Insights**<br>
