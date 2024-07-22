@@ -4,7 +4,7 @@
 **Domain**  : EMBEDDED SYSTEMS<br>
 **Duration**: JULY TO AUGUST<br>
 
-**Overview of the Project**
+**Overview of the Project**:
 
 **Project**: LED blinking with Arduino
 
